@@ -481,6 +481,7 @@ hr {
 @media screen and (min-width: 1024px) {
     .topicos__titulo {
         font-size: 24px;
+        
     }
 
     .topicos__link {
@@ -493,3 +494,5 @@ hr {
         padding: 3em 30vw;
     }
 }
+
+.imagem{width: 90%;}
